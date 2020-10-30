@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 11" width="17" height="11">
+	<defs>
+		<image width="17" height="11" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALBAMAAABrDns0AAAAAXNSR0IB2cksfwAAACRQTFRFAAAAIx8gIx8gIx8gIx8gIx8gIx8gIx8gIx8gIx8gIx8gIx8gomJADAAAAAx0Uk5TAFDvYP9wMJ/PECBAUfpLaQAAAEtJREFUeJxjYIAAIQUog9kFxgpxSoAw2F06GRiEgQzOEo8JDAwuBQwMM1wqgfwW9wlcLe5QJUkuAWDVJR4qzhB9rC5OG6BmmaiBKQBpBQyHk9G4rgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="order form">
+		<use id="Vector Smart Object" href="#img1" x="0" y="0" />
+	</g>
+</svg>
